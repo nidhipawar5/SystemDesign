@@ -19,9 +19,9 @@ System design is a crucial aspect of building scalable, efficient, and reliable 
 3. **Contribute**: If you have additional resources or suggestions, feel free to contribute by opening an issue or submitting a pull request.
 
 
-## Contributing
+## Contributing 👥
 
-We welcome contributions from the community! If you have suggestions for articles, improvements, or corrections, please open an issue or submit a pull request. Your input helps make this resource better for everyone.👥
+We welcome contributions from the community! If you have suggestions for articles, improvements, or corrections, please open an issue or submit a pull request. Your input helps make this resource better for everyone.
 
 ## More Articles..📚📖
 
