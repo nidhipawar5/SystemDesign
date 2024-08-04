@@ -1,4 +1,4 @@
-# System Design Resources Repository
+# System Design Resources Repository 🖥️
 
 Welcome to the System Design Resources repository! 
 
@@ -7,12 +7,12 @@ This repository is a comprehensive collection of articles on system design, meti
 ![Screenshot 2024-08-04 at 3 17 27 PM](https://github.com/user-attachments/assets/07ef128e-1bea-493e-a181-334fe5c10a0c)
 
 
-## Overview
+## Overview 💡
 
 System design is a crucial aspect of building scalable, efficient, and reliable technology solutions. This repository contains a series of articles divided into chapters, each focusing on different aspects of system design. The chapters are designed to build on one another, providing a step-by-step guide through the complexities of system design.
 
 
-## How to Use This Repository
+## How to Use This Repository 👩🏻‍🏫
 
 1. **Explore the Chapters**: Navigate through the repository files to access each chapter's article's link. Each chapter is designed to build upon the previous one.
 2. **Read and Learn**: Dive into the articles to gain a deep understanding of each topic.
@@ -21,13 +21,13 @@ System design is a crucial aspect of building scalable, efficient, and reliable 
 
 ## Contributing
 
-We welcome contributions from the community! If you have suggestions for articles, improvements, or corrections, please open an issue or submit a pull request. Your input helps make this resource better for everyone.
+We welcome contributions from the community! If you have suggestions for articles, improvements, or corrections, please open an issue or submit a pull request. Your input helps make this resource better for everyone.👥
 
-## License
+## More Articles..📚📖
 
-This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
+To read more on tech-related topics, check out this insightful [blog site](https://blog-eta-seven-55.vercel.app). 
 
-## Contact
+## Contact📨
 
 For questions or suggestions, please contact [work.thecodelink@gmail.com](mailto:work.thecodelink@gmail.com).
 
